@@ -1,2 +1,2 @@
 # Rusty
-This is for creatting applocations in Rust Language
+This is for creatting applications in Rust Language
